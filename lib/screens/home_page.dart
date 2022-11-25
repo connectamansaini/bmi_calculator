@@ -1,8 +1,8 @@
 import 'package:bmi_calculator/calculator.dart';
-import 'package:bmi_calculator/components/bottom_button.dart';
-import 'package:bmi_calculator/components/icon_content.dart';
-import 'package:bmi_calculator/components/reusable_card.dart';
-import 'package:bmi_calculator/components/round_icon_button.dart';
+import 'package:bmi_calculator/ui_components/bottom_button.dart';
+import 'package:bmi_calculator/ui_components/icon_content.dart';
+import 'package:bmi_calculator/ui_components/reusable_card.dart';
+import 'package:bmi_calculator/ui_components/round_icon_button.dart';
 import 'package:bmi_calculator/constants.dart';
 import 'package:bmi_calculator/screens/results_page.dart';
 import 'package:flutter/material.dart';
